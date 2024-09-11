@@ -12,7 +12,7 @@ The package includes a Python script which control the movement of the robot to 
 - Open 3 Terminals.
 - **First Terminal:** 
 ```
-$ Write roscore.
+$ Write roscore
 ```
 - **Second Terminal:** 
 ```
