@@ -1,0 +1,8 @@
+prefix=/home/hazem/shato_ws/install
+
+Name: turtlebot_pid
+Description: Description of turtlebot_pid
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: dynamic_reconfigure geometry_msgs nav_msgs rospy

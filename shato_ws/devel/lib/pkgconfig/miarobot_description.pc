@@ -1,0 +1,8 @@
+prefix=/home/hazem/shato_ws/devel
+
+Name: miarobot_description
+Description: Description of miarobot_description
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

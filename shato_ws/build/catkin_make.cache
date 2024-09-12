@@ -1,0 +1,2 @@
+miarobot_description:turtlebot_pid
+-DCATKIN_DEVEL_PREFIX=/home/hazem/shato_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hazem/shato_ws/install -G Unix Makefiles
